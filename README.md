@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Logistic Regression
+# Customer Churn Prediction using Logistic Regression (Classification)
 
 ## Project Overview
 This project uses Machine Learning to predict whether a customer is likely to leave a company based on customer information, services, contract type, and billing details.
